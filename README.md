@@ -1,2 +1,2 @@
 # Glowforge-Pro
-Storage of Glowforge-Pro related documents and files
+This is where Glowforge-Pro Related files will be stored in the future
